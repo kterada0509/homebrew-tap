@@ -4,7 +4,7 @@ class DatadogTerraformer < Formula
   homepage "https://github.com/kterada0509/datadog-terraformer"
   url "https://github.com/kterada0509/datadog-terraformer/releases/download/v0.0.6/datadog-terraformer_0.0.6_darwin_amd64.tar.gz"
   version "0.0.6"
-  sha256 "a4797757f5a659b9a1e95032fdaba47234679f4785595e6dcb12e75ed316da62"
+  sha256 "47c4914d8e38e363f2e9301f2a5eb75b63ad576dd303c6b087783de4435f1223"
 
   def install
     bin.install "datadog-terraformer"
