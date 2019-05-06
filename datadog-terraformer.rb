@@ -2,9 +2,9 @@
 class DatadogTerraformer < Formula
   desc "Command Line Tool for exporting existing Datadog resources to HCL"
   homepage "https://github.com/kterada0509/datadog-terraformer"
-  url "https://github.com/kterada0509/datadog-terraformer/releases/download/v0.0.7/datadog-terraformer_0.0.7_darwin_amd64.tar.gz"
-  version "0.0.7"
-  sha256 "03bd4b1be9984ef42dfba4ffb49f2989277e97ec52a56c1bd73636004b14f97b"
+  url "https://github.com/kterada0509/datadog-terraformer/releases/download/v0.0.8/datadog-terraformer_0.0.8_darwin_amd64.tar.gz"
+  version "0.0.8"
+  sha256 "9d9e7cbec2714be527655efb08fbe80676bf076804372dce056decabb25def73"
 
   def install
     bin.install "datadog-terraformer"
